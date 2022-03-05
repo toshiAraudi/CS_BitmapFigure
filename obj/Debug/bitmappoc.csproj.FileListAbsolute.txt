@@ -1,0 +1,10 @@
+C:\Users\Loli\source\repos\bitmappoc\bin\Debug\bitmappoc.exe.config
+C:\Users\Loli\source\repos\bitmappoc\bin\Debug\bitmappoc.exe
+C:\Users\Loli\source\repos\bitmappoc\bin\Debug\bitmappoc.pdb
+C:\Users\Loli\source\repos\bitmappoc\obj\Debug\bitmappoc.csprojAssemblyReference.cache
+C:\Users\Loli\source\repos\bitmappoc\obj\Debug\bitmappoc.Form1.resources
+C:\Users\Loli\source\repos\bitmappoc\obj\Debug\bitmappoc.Properties.Resources.resources
+C:\Users\Loli\source\repos\bitmappoc\obj\Debug\bitmappoc.csproj.GenerateResource.cache
+C:\Users\Loli\source\repos\bitmappoc\obj\Debug\bitmappoc.csproj.CoreCompileInputs.cache
+C:\Users\Loli\source\repos\bitmappoc\obj\Debug\bitmappoc.exe
+C:\Users\Loli\source\repos\bitmappoc\obj\Debug\bitmappoc.pdb
